@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student
 -------
 
-กำลังศึกษาการเรียนcodeอยู่ครับ
+Study
+king mongkut's university of technology north bangkok
+Faculty of Industrial Technology and Management
 
 * 🌍  I'm based in Bangkok,Thailand
 * ✉️  You can contact me at [piegod777@gmail.com](mailto:piegod777@gmail.com)
