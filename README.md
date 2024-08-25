@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student
 -------
 
-Study
-king mongkut's university of technology north bangkok
-Faculty of Industrial Technology and Management
+<p>Study</p> 
+<p>King mongkut's university of technology north bangkok</p> 
+<p>Faculty of Industrial Technology and Management</p> 
 
 * 🌍  I'm based in Bangkok,Thailand
 * ✉️  You can contact me at [piegod777@gmail.com](mailto:piegod777@gmail.com)
