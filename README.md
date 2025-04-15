@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student
 -------
 
-<p>Study Info</p> 
+<p>Info</p> 
 <p>King Mongkut's Institute of Technology Ladkrabang</p> 
 <p>School of Industrial Education and Technology, KMITL</p>
 <p>Bachelor of Science in Industrial Education (Computer technology)</p> 
@@ -12,6 +12,9 @@ student
 
 * 🌍  I'm based in Bangkok,Thailand
 * ✉️  You can contact me at [piegod777@gmail.com](mailto:piegod777@gmail.com)
+* 🔗  My Linkedin www.linkedin.com/in/chitsanupat-wayusuwanwit-47b92a330
+* 🏢  Part-Time Tech Consultant at BorntoDev
+
 
 ### Skills
 
