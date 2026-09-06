@@ -11,7 +11,7 @@ Student & Internship
 
 
 * 🌍  I'm based in Bangkok,Thailand
-* ✉️  You can contact me at [piegod777@gmail.com](mailto:piegod777@gmail.com)
+* ✉️  You can contact me at [chitsanupatwayusuwanwit@gmail.com](mailto:chitsanupatwayusuwanwit@gmail.com)
 * 🔗  My Linkedin www.linkedin.com/in/chitsanupat-wayusuwanwit-47b92a330
 * 🏢  Part-Time Tech Consultant at BorntoDev
 
