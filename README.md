@@ -20,9 +20,11 @@ Student & Internship
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,kubernetes,docker,jenkins,githubactions,grafana&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,terraform,kubernetes,docker,jenkins,githubactions&perline=9" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nginx,postgres,ts,nextjs,nestjs,express,fastapi,go&perline=9" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,linux,redhat,nginx,postgres,git,redis&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,express,fastapi,go,jest&perline=9" />
 </p>
 
 
